@@ -1,1 +1,17 @@
-
+{
+  "name": "bower_site",
+  "version": "1.0.1",
+  "authors": [
+    "Giang LeLe <lvgvictory@gmail.com>"
+  ],
+  "description": "Framgia standard bower site",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lvgvictory/bower_site.git",
+  "ignore": [
+    "README.md"
+  ]
+}
